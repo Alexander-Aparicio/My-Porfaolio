@@ -80,7 +80,7 @@ const Header = ()=>{
         <Navegation>
 
             <CornerLeftSup>
-                <Image src={cornerLeftO} layout='intrinsic' />
+                <Image src={cornerLeftO} layout='intrinsic' alt="pieza decorartiva" />
             </CornerLeftSup>
 
             <Links>

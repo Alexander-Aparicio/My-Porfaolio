@@ -52,7 +52,7 @@ const Technologies = ({tech})=>{
         <ContainerCards>
 
             { tech ? tech.map((el, index)=>(
-                <Card key={index} ><Image src={el.img} className={el.styles}/></Card> 
+                <Card key={index} ><Image src={el.img} className={el.styles} alt="tecnologías" /></Card> 
             )): null }
 
         </ContainerCards>

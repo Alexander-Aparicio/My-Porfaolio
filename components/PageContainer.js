@@ -84,22 +84,22 @@ const PageContainer = ({children})=>{
         <Container>
 
             <CornerCardLeft>
-                <Image src={Javascript} layout='intrinsic' />
+                <Image src={Javascript} layout='intrinsic'  alt="pieza decorativa"/>
             </CornerCardLeft>
 
             <Orbita>
-                <Image src={orbita} layout='intrinsic' priority/>
+                <Image src={orbita} layout='intrinsic' alt="pieza decorativa" priority/>
             </Orbita>
             <Header />
             
             {children}
 
             <CornerLeftInf>
-                <Image src={cornerLeftC} layout='intrinsic' />
+                <Image src={cornerLeftC} layout='intrinsic' alt="pieza decorativa" />
             </CornerLeftInf>
 
             <CornerRight>
-                <Image src={cornerRight} layout='intrinsic' />
+                <Image src={cornerRight} layout='intrinsic' alt="pieza decorativa" />
             </CornerRight>
             
         </Container>

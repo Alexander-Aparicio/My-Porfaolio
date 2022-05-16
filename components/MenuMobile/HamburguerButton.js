@@ -22,8 +22,8 @@ const HamburgerButton = ({...props})=>{
         <Hamburger onClick={props.switch} state={props.state} >
 
             {props.state 
-            ? <Image className="close" src={CloseBtn} layout='intrinsic' /> 
-            : <Image className="open" src={OpenBtn} layout='intrinsic' /> }
+            ? <Image className="close" src={CloseBtn} layout='intrinsic' alt="button close" /> 
+            : <Image className="open" src={OpenBtn} layout='intrinsic' alt="button open" /> }
 
         </Hamburger>
     )

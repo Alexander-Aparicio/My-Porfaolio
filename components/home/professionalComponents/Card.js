@@ -22,7 +22,7 @@ const Card = ({img})=>{
     return(
 
         <BoxImage>
-            <Image src={img} layout='intrinsic' />
+            <Image src={img} layout='intrinsic' alt="Alexander Aparicio Meza"/>
         </BoxImage>
 
     )
