@@ -2,7 +2,7 @@ import Head from 'next/head'
 import MenuMobile from '../components/MenuMobile/Menu'
 import PageContainer from "../components/PageContainer"
 import MySkills from '../components/tecnologias/MySkills'
-import TechContainer from '../components/tecnologias/tecnologiasContainer'
+import TechContainer from "../components/tecnologias/TecnologiasContainer"
 import TitleTech from '../components/tecnologias/TitleTech'
 
 const tecnologias = ()=>{
