@@ -9,7 +9,7 @@ const Projects = ()=>{
                 link={''}
                 web={'Mi portafolio'}
                 tech={'Next JS - Styled-Components'}
-                repo={'https://github.com/Alexander-Aparicio/Portafolio-NextJS'}
+                repo={'https://github.com/Alexander-Aparicio/My-Porfaolio'}
             />
 
             <WebsiteProject  
