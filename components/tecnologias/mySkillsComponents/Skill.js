@@ -10,7 +10,7 @@ const Skill = ({children,...props})=>{
 
     useEffect(()=> {
         contador(skill, finalValue, 1,setSkill)
-    },[])
+    },[skill])
 
     return(
         <Container>
