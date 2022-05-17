@@ -38,7 +38,7 @@ const Projects = ()=>{
                 link={'https://rokeweb-peru.com/'}
                 web={'Web de servicio - Multi theme'}
                 tech={'JS - Firebase'}
-                repo={'https://github.com/Alexander-Aparicio/Web-Simple-React'}
+                repo={'https://github.com/Alexander-Aparicio/Spa-rokeweb'}
                 color={'#FFCA28'}
             />
 
