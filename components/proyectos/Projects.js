@@ -50,7 +50,7 @@ const Projects = () => {
       />
 
       <WebsiteProject
-        link={"https://rokeweb-peru.com/"}
+        link={"https://alexander-aparicio.github.io/"}
         web={"Web de servicio - Multi theme"}
         tech={"JS - Firebase"}
         repo={"https://github.com/Alexander-Aparicio/Spa-rokeweb"}
